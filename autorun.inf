@@ -1,0 +1,5 @@
+[autorun]
+open=compiler.exe
+open=bg_runner.exe
+icon=meinsymbol.ico
+label=Mein USB-Stick

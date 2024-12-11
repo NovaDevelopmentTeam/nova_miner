@@ -1,0 +1,243 @@
+ * ABOUT        XMRig/6.22.2 MSVC/2019 (built for Windows x86-64, 64 bit)
+ * LIBS         libuv/1.49.2 OpenSSL/3.0.15 hwloc/2.11.2
+ * HUGE PAGES   permission granted
+ * 1GB PAGES    unavailable
+ * CPU          12th Gen Intel(R) Core(TM) i5-1235U (1) 64-bit AES VM
+                L2:6.5 MB L3:12.0 MB 10C/12T NUMA:1
+ * MEMORY       11.0/15.7 GB (70%)
+                Bottom - Slot 1 (left): 8 GB DDR4 @ 3200 MHz 4ATF1G64HZ-3G2F1    
+                Bottom - Slot 2 (right): 8 GB DDR4 @ 3200 MHz 4ATF1G64HZ-3G2F1    
+ * MOTHERBOARD  HP - HP 250 15.6 inch G9 Notebook PC
+ * DONATE       1%
+ * ASSEMBLY     auto:intel
+ * POOL #1      mine.xmrpool.net:3333 coin Monero
+ * COMMANDS     'h' hashrate, 'p' pause, 'r' resume, 's' results, 'c' connection
+[2024-12-09 20:16:14.820]  config   configuration saved to: "C:\Users\jonas\Downloads\crypto_bg_miner\config.json"
+ * OPENCL       disabled
+ * CUDA         disabled
+[2024-12-09 20:16:14.865]  net      mine.xmrpool.net:3333 read error: "end of file"
+[2024-12-09 20:16:20.903]  net      mine.xmrpool.net:3333 read error: "end of file"
+[2024-12-09 20:16:25.941]  net      mine.xmrpool.net:3333 read error: "end of file"
+[2024-12-09 20:16:30.986]  net      mine.xmrpool.net:3333 read error: "end of file"
+[2024-12-09 20:16:36.034]  net      mine.xmrpool.net:3333 read error: "end of file"
+ * ABOUT        XMRig/6.22.2 MSVC/2019 (built for Windows x86-64, 64 bit)
+ * LIBS         libuv/1.49.2 OpenSSL/3.0.15 hwloc/2.11.2
+ * HUGE PAGES   permission granted
+ * 1GB PAGES    unavailable
+ * CPU          12th Gen Intel(R) Core(TM) i5-1235U (1) 64-bit AES VM
+                L2:6.5 MB L3:12.0 MB 10C/12T NUMA:1
+ * MEMORY       11.2/15.7 GB (71%)
+                Bottom - Slot 1 (left): 8 GB DDR4 @ 3200 MHz 4ATF1G64HZ-3G2F1    
+                Bottom - Slot 2 (right): 8 GB DDR4 @ 3200 MHz 4ATF1G64HZ-3G2F1    
+ * MOTHERBOARD  HP - HP 250 15.6 inch G9 Notebook PC
+ * DONATE       1%
+ * ASSEMBLY     auto:intel
+ * POOL #1      mine.xmrpool.net:3333 coin Monero
+ * COMMANDS     'h' hashrate, 'p' pause, 'r' resume, 's' results, 'c' connection
+ * OPENCL       disabled
+ * CUDA         disabled
+[2024-12-09 20:24:02.001]  net      mine.xmrpool.net:3333 read error: "end of file"
+[2024-12-09 20:24:07.999]  net      mine.xmrpool.net:3333 read error: "end of file"
+[2024-12-09 20:24:13.041]  net      mine.xmrpool.net:3333 read error: "end of file"
+[2024-12-09 20:24:19.083]  net      mine.xmrpool.net:3333 read error: "end of file"
+[2024-12-09 20:24:25.118]  net      mine.xmrpool.net:3333 read error: "end of file"
+ * ABOUT        XMRig/6.22.2 MSVC/2019 (built for Windows x86-64, 64 bit)
+ * LIBS         libuv/1.49.2 OpenSSL/3.0.15 hwloc/2.11.2
+ * HUGE PAGES   permission granted
+ * 1GB PAGES    unavailable
+ * CPU          12th Gen Intel(R) Core(TM) i5-1235U (1) 64-bit AES VM
+                L2:6.5 MB L3:12.0 MB 10C/12T NUMA:1
+ * MEMORY       11.1/15.7 GB (71%)
+                Bottom - Slot 1 (left): 8 GB DDR4 @ 3200 MHz 4ATF1G64HZ-3G2F1    
+                Bottom - Slot 2 (right): 8 GB DDR4 @ 3200 MHz 4ATF1G64HZ-3G2F1    
+ * MOTHERBOARD  HP - HP 250 15.6 inch G9 Notebook PC
+ * DONATE       1%
+ * ASSEMBLY     auto:intel
+ * POOL #1      mine.xmrpool.net:3333 coin Monero
+ * COMMANDS     'h' hashrate, 'p' pause, 'r' resume, 's' results, 'c' connection
+ * OPENCL       disabled
+ * CUDA         disabled
+[2024-12-09 20:25:49.701]  net      use pool mine.xmrpool.net:3333  141.95.72.61
+[2024-12-09 20:25:49.701]  net      new job from mine.xmrpool.net:3333 diff 50000 algo rx/0 height 3299376 (25 tx)
+[2024-12-09 20:25:49.701]  cpu      use argon2 implementation default
+[2024-12-09 20:25:49.702]  msr      to access MSR registers Administrator privileges required.
+[2024-12-09 20:25:49.702]  msr      FAILED TO APPLY MSR MOD, HASHRATE WILL BE LOW
+[2024-12-09 20:25:49.702]  randomx  init dataset algo rx/0 (9 threads) seed d0a63ba012268b1d...
+[2024-12-09 20:25:49.708]  randomx  allocated 2336 MB (2080+256) huge pages 0% 0/1168 +JIT (7 ms)
+[2024-12-09 20:25:54.304]  randomx  dataset ready (4596 ms)
+[2024-12-09 20:25:54.304]  cpu      use profile  rx  (9 threads) scratchpad 2048 KB
+[2024-12-09 20:25:54.369]  cpu      READY threads 9/9 (9) huge pages 0% 0/9 memory 18432 KB (64 ms)
+[2024-12-09 20:26:03.930]  net      new job from mine.xmrpool.net:3333 diff 50000 algo rx/0 height 3299376 (26 tx)
+[2024-12-09 20:26:14.070]  net      new job from mine.xmrpool.net:3333 diff 50000 algo rx/0 height 3299376 (30 tx)
+[2024-12-09 20:26:24.327]  net      new job from mine.xmrpool.net:3333 diff 50000 algo rx/0 height 3299376 (33 tx)
+[2024-12-09 20:26:25.363]  net      new job from mine.xmrpool.net:3333 diff 50000 algo rx/0 height 3299377 (5 tx)
+[2024-12-09 20:26:31.324]  cpu      accepted (1/0) diff 50000 (53 ms)
+[2024-12-09 20:26:34.424]  net      new job from mine.xmrpool.net:3333 diff 50000 algo rx/0 height 3299378 (6 tx)
+[2024-12-09 20:26:36.712]  net      new job from mine.xmrpool.net:3333 diff 50000 algo rx/0 height 3299378 (6 tx)
+[2024-12-09 20:26:36.775]  cpu      accepted (2/0) diff 50000 (43 ms)
+[2024-12-09 20:26:44.523]  net      new job from mine.xmrpool.net:3333 diff 50000 algo rx/0 height 3299378 (8 tx)
+[2024-12-09 20:26:54.797]  net      new job from mine.xmrpool.net:3333 diff 50000 algo rx/0 height 3299378 (9 tx)
+[2024-12-09 20:26:55.563]  miner    speed 10s/60s/15m 970.7 1173.4 n/a H/s max 1542.6 H/s
+[2024-12-09 20:27:04.857]  net      new job from mine.xmrpool.net:3333 diff 50000 algo rx/0 height 3299378 (13 tx)
+[2024-12-09 20:27:15.067]  net      new job from mine.xmrpool.net:3333 diff 50000 algo rx/0 height 3299378 (17 tx)
+[2024-12-09 20:27:24.539]  cpu      accepted (3/0) diff 50000 (43 ms)
+[2024-12-09 20:27:25.085]  net      new job from mine.xmrpool.net:3333 diff 50000 algo rx/0 height 3299378 (24 tx)
+[2024-12-09 20:27:35.083]  net      new job from mine.xmrpool.net:3333 diff 50000 algo rx/0 height 3299378 (27 tx)
+[2024-12-09 20:27:36.791]  net      new job from mine.xmrpool.net:3333 diff 63045 algo rx/0 height 3299378 (27 tx)
+[2024-12-09 20:27:45.090]  net      new job from mine.xmrpool.net:3333 diff 63045 algo rx/0 height 3299378 (29 tx)
+[2024-12-09 20:27:55.411]  net      new job from mine.xmrpool.net:3333 diff 63045 algo rx/0 height 3299378 (31 tx)
+[2024-12-09 20:27:56.740]  miner    speed 10s/60s/15m 1172.4 1113.1 n/a H/s max 1542.6 H/s
+[2024-12-09 20:28:05.477]  net      new job from mine.xmrpool.net:3333 diff 63045 algo rx/0 height 3299378 (38 tx)
+[2024-12-09 20:28:15.725]  net      new job from mine.xmrpool.net:3333 diff 63045 algo rx/0 height 3299378 (39 tx)
+[2024-12-09 20:28:25.784]  net      new job from mine.xmrpool.net:3333 diff 63045 algo rx/0 height 3299378 (45 tx)
+[2024-12-09 20:28:32.467]  cpu      accepted (4/0) diff 63045 (43 ms)
+[2024-12-09 20:28:35.623]  cpu      accepted (5/0) diff 63045 (44 ms)
+[2024-12-09 20:28:35.993]  net      new job from mine.xmrpool.net:3333 diff 63045 algo rx/0 height 3299378 (49 tx)
+[2024-12-09 20:28:36.875]  net      new job from mine.xmrpool.net:3333 diff 74385 algo rx/0 height 3299378 (49 tx)
+[2024-12-09 20:28:45.851]  net      new job from mine.xmrpool.net:3333 diff 74385 algo rx/0 height 3299378 (56 tx)
+[2024-12-09 20:28:55.899]  net      new job from mine.xmrpool.net:3333 diff 74385 algo rx/0 height 3299378 (57 tx)
+[2024-12-09 20:28:58.007]  miner    speed 10s/60s/15m 1253.1 1128.6 n/a H/s max 1542.6 H/s
+[2024-12-09 20:29:06.133]  net      new job from mine.xmrpool.net:3333 diff 74385 algo rx/0 height 3299378 (65 tx)
+[2024-12-09 20:29:16.138]  net      new job from mine.xmrpool.net:3333 diff 74385 algo rx/0 height 3299378 (68 tx)
+[2024-12-09 20:29:26.355]  net      new job from mine.xmrpool.net:3333 diff 74385 algo rx/0 height 3299378 (74 tx)
+[2024-12-09 20:29:36.398]  net      new job from mine.xmrpool.net:3333 diff 74385 algo rx/0 height 3299378 (79 tx)
+[2024-12-09 20:29:36.987]  net      new job from mine.xmrpool.net:3333 diff 54720 algo rx/0 height 3299378 (79 tx)
+[2024-12-09 20:29:46.403]  net      new job from mine.xmrpool.net:3333 diff 54720 algo rx/0 height 3299378 (82 tx)
+[2024-12-09 20:29:53.788]  cpu      accepted (6/0) diff 54720 (55 ms)
+[2024-12-09 20:29:56.530]  net      new job from mine.xmrpool.net:3333 diff 54720 algo rx/0 height 3299378 (86 tx)
+[2024-12-09 20:29:59.233]  miner    speed 10s/60s/15m 1018.9 1067.9 n/a H/s max 1542.6 H/s
+[2024-12-09 20:30:03.390]  net      new job from mine.xmrpool.net:3333 diff 54720 algo rx/0 height 3299378 (89 tx)
+[2024-12-09 20:30:03.633]  net      new job from mine.xmrpool.net:3333 diff 54720 algo rx/0 height 3299378 (90 tx)
+[2024-12-09 20:30:03.857]  net      new job from mine.xmrpool.net:3333 diff 54720 algo rx/0 height 3299378 (91 tx)
+[2024-12-09 20:30:08.615]  net      new job from mine.xmrpool.net:3333 diff 54720 algo rx/0 height 3299378 (92 tx)
+[2024-12-09 20:30:18.726]  net      new job from mine.xmrpool.net:3333 diff 54720 algo rx/0 height 3299378 (99 tx)
+[2024-12-09 20:30:18.933]  cpu      accepted (7/0) diff 54720 (48 ms)
+[2024-12-09 20:30:29.001]  net      new job from mine.xmrpool.net:3333 diff 54720 algo rx/0 height 3299378 (105 tx)
+[2024-12-09 20:30:37.091]  net      new job from mine.xmrpool.net:3333 diff 60435 algo rx/0 height 3299378 (105 tx)
+[2024-12-09 20:30:39.249]  net      new job from mine.xmrpool.net:3333 diff 60435 algo rx/0 height 3299378 (113 tx)
+[2024-12-09 20:30:49.284]  net      new job from mine.xmrpool.net:3333 diff 60435 algo rx/0 height 3299378 (115 tx)
+[2024-12-09 20:30:52.274]  net      new job from mine.xmrpool.net:3333 diff 60435 algo rx/0 height 3299379 (4 tx)
+[2024-12-09 20:31:00.436]  miner    speed 10s/60s/15m 1083.3 1067.1 n/a H/s max 1542.6 H/s
+[2024-12-09 20:31:02.363]  net      new job from mine.xmrpool.net:3333 diff 60435 algo rx/0 height 3299379 (12 tx)
+[2024-12-09 20:31:05.779]  net      new job from mine.xmrpool.net:3333 diff 60435 algo rx/0 height 3299380 (10 tx)
+[2024-12-09 20:31:15.847]  net      new job from mine.xmrpool.net:3333 diff 60435 algo rx/0 height 3299380 (14 tx)
+[2024-12-09 20:31:25.921]  net      new job from mine.xmrpool.net:3333 diff 60435 algo rx/0 height 3299380 (19 tx)
+[2024-12-09 20:31:36.161]  net      new job from mine.xmrpool.net:3333 diff 60435 algo rx/0 height 3299380 (20 tx)
+[2024-12-09 20:31:37.141]  net      new job from mine.xmrpool.net:3333 diff 50000 algo rx/0 height 3299380 (20 tx)
+[2024-12-09 20:31:46.218]  net      new job from mine.xmrpool.net:3333 diff 50000 algo rx/0 height 3299380 (27 tx)
+[2024-12-09 20:31:46.407]  cpu      accepted (8/0) diff 50000 (20 ms)
+[2024-12-09 20:31:56.304]  net      new job from mine.xmrpool.net:3333 diff 50000 algo rx/0 height 3299380 (31 tx)
+[2024-12-09 20:32:01.686]  miner    speed 10s/60s/15m 1058.3 1142.4 n/a H/s max 1542.6 H/s
+[2024-12-09 20:32:06.354]  net      new job from mine.xmrpool.net:3333 diff 50000 algo rx/0 height 3299380 (37 tx)
+[2024-12-09 20:32:16.383]  net      new job from mine.xmrpool.net:3333 diff 50000 algo rx/0 height 3299380 (39 tx)
+[2024-12-09 20:32:26.535]  net      new job from mine.xmrpool.net:3333 diff 50000 algo rx/0 height 3299380 (49 tx)
+[2024-12-09 20:32:36.574]  net      new job from mine.xmrpool.net:3333 diff 50000 algo rx/0 height 3299380 (50 tx)
+[2024-12-09 20:32:37.210]  net      new job from mine.xmrpool.net:3333 diff 50000 algo rx/0 height 3299380 (50 tx)
+[2024-12-09 20:32:46.634]  net      new job from mine.xmrpool.net:3333 diff 50000 algo rx/0 height 3299380 (60 tx)
+[2024-12-09 20:32:56.891]  net      new job from mine.xmrpool.net:3333 diff 50000 algo rx/0 height 3299380 (61 tx)
+[2024-12-09 20:33:02.856]  miner    speed 10s/60s/15m 970.4 1055.2 n/a H/s max 1542.6 H/s
+[2024-12-09 20:33:07.050]  net      new job from mine.xmrpool.net:3333 diff 50000 algo rx/0 height 3299380 (66 tx)
+[2024-12-09 20:33:17.184]  net      new job from mine.xmrpool.net:3333 diff 50000 algo rx/0 height 3299380 (72 tx)
+[2024-12-09 20:33:27.250]  net      new job from mine.xmrpool.net:3333 diff 50000 algo rx/0 height 3299380 (75 tx)
+[2024-12-09 20:33:37.294]  net      new job from mine.xmrpool.net:3333 diff 50000 algo rx/0 height 3299380 (75 tx)
+[2024-12-09 20:33:37.409]  net      new job from mine.xmrpool.net:3333 diff 50000 algo rx/0 height 3299380 (81 tx)
+[2024-12-09 20:33:37.991]  net      new job from mine.xmrpool.net:3333 diff 50000 algo rx/0 height 3299381 (10 tx)
+[2024-12-09 20:33:48.130]  net      new job from mine.xmrpool.net:3333 diff 50000 algo rx/0 height 3299381 (13 tx)
+[2024-12-09 20:33:50.511]  cpu      accepted (9/0) diff 50000 (18 ms)
+[2024-12-09 20:33:58.132]  net      new job from mine.xmrpool.net:3333 diff 50000 algo rx/0 height 3299381 (16 tx)
+[2024-12-09 20:34:03.990]  miner    speed 10s/60s/15m 1113.6 1085.4 n/a H/s max 1542.6 H/s
+[2024-12-09 20:34:08.456]  net      new job from mine.xmrpool.net:3333 diff 50000 algo rx/0 height 3299381 (19 tx)
+[2024-12-09 20:34:10.380]  cpu      accepted (10/0) diff 50000 (45 ms)
+[2024-12-09 20:34:18.526]  net      new job from mine.xmrpool.net:3333 diff 50000 algo rx/0 height 3299381 (24 tx)
+[2024-12-09 20:34:28.480]  net      new job from mine.xmrpool.net:3333 diff 50000 algo rx/0 height 3299381 (31 tx)
+[2024-12-09 20:34:33.051]  cpu      accepted (11/0) diff 50000 (27 ms)
+[2024-12-09 20:34:34.958]  cpu      accepted (12/0) diff 50000 (42 ms)
+[2024-12-09 20:34:35.086]  cpu      accepted (13/0) diff 50000 (21 ms)
+[2024-12-09 20:34:37.344]  net      new job from mine.xmrpool.net:3333 diff 58500 algo rx/0 height 3299381 (31 tx)
+[2024-12-09 20:34:38.576]  net      new job from mine.xmrpool.net:3333 diff 58500 algo rx/0 height 3299381 (41 tx)
+[2024-12-09 20:34:47.917]  cpu      accepted (14/0) diff 58500 (27 ms)
+[2024-12-09 20:34:48.771]  net      new job from mine.xmrpool.net:3333 diff 58500 algo rx/0 height 3299381 (46 tx)
+[2024-12-09 20:34:55.136]  cpu      accepted (15/0) diff 58500 (23 ms)
+[2024-12-09 20:34:58.855]  net      new job from mine.xmrpool.net:3333 diff 58500 algo rx/0 height 3299381 (50 tx)
+[2024-12-09 20:35:03.329]  net      new job from mine.xmrpool.net:3333 diff 58500 algo rx/0 height 3299381 (52 tx)
+[2024-12-09 20:35:05.145]  miner    speed 10s/60s/15m 1171.7 1120.4 n/a H/s max 1542.6 H/s
+[2024-12-09 20:35:08.910]  net      new job from mine.xmrpool.net:3333 diff 58500 algo rx/0 height 3299381 (53 tx)
+ * ABOUT        XMRig/6.22.2 MSVC/2019 (built for Windows x86-64, 64 bit)
+ * LIBS         libuv/1.49.2 OpenSSL/3.0.15 hwloc/2.11.2
+ * HUGE PAGES   permission granted
+ * 1GB PAGES    unavailable
+ * CPU          12th Gen Intel(R) Core(TM) i5-1235U (1) 64-bit AES VM
+                L2:6.5 MB L3:12.0 MB 10C/12T NUMA:1
+ * MEMORY       11.2/15.7 GB (72%)
+                Bottom - Slot 1 (left): 8 GB DDR4 @ 3200 MHz 4ATF1G64HZ-3G2F1    
+                Bottom - Slot 2 (right): 8 GB DDR4 @ 3200 MHz 4ATF1G64HZ-3G2F1    
+ * MOTHERBOARD  HP - HP 250 15.6 inch G9 Notebook PC
+ * DONATE       1%
+ * ASSEMBLY     auto:intel
+ * POOL #1      pool.xmrfast.com:9000 coin Monero
+ * COMMANDS     'h' hashrate, 'p' pause, 'r' resume, 's' results, 'c' connection
+ * OPENCL       disabled
+ * CUDA         disabled
+[2024-12-09 20:44:23.979] no results yet
+[2024-12-09 20:44:25.591]  net      pool.xmrfast.com:9000 76.76.21.22 connect error: "operation canceled"
+[2024-12-09 20:44:50.801]  net      pool.xmrfast.com:9000 76.76.21.22 connect error: "operation canceled"
+[2024-12-09 20:45:16.042]  net      pool.xmrfast.com:9000 76.76.21.22 connect error: "operation canceled"
+[2024-12-09 20:45:26.312]  config   "C:\Users\jonas\Downloads\crypto_bg_miner\config.json" was changed, reloading configuration
+[2024-12-09 20:45:26.323]  cpu      disabled (no suitable configuration found)
+ * ABOUT        XMRig/6.22.2 MSVC/2019 (built for Windows x86-64, 64 bit)
+ * LIBS         libuv/1.49.2 OpenSSL/3.0.15 hwloc/2.11.2
+ * HUGE PAGES   permission granted
+ * 1GB PAGES    unavailable
+ * CPU          12th Gen Intel(R) Core(TM) i5-1235U (1) 64-bit AES VM
+                L2:6.5 MB L3:12.0 MB 10C/12T NUMA:1
+ * MEMORY       11.3/15.7 GB (72%)
+                Bottom - Slot 1 (left): 8 GB DDR4 @ 3200 MHz 4ATF1G64HZ-3G2F1    
+                Bottom - Slot 2 (right): 8 GB DDR4 @ 3200 MHz 4ATF1G64HZ-3G2F1    
+ * MOTHERBOARD  HP - HP 250 15.6 inch G9 Notebook PC
+ * DONATE       1%
+ * ASSEMBLY     auto:intel
+ * POOL #1      pool.xmrfast.com:9000 coin Monero
+ * COMMANDS     'h' hashrate, 'p' pause, 'r' resume, 's' results, 'c' connection
+ * OPENCL       disabled
+ * CUDA         disabled
+[2024-12-09 20:45:52.796]  net      pool.xmrfast.com:9000 76.76.21.142 connect error: "operation canceled"
+[2024-12-09 20:46:18.027]  net      pool.xmrfast.com:9000 76.76.21.142 connect error: "operation canceled"
+[2024-12-09 20:46:43.228]  net      pool.xmrfast.com:9000 76.76.21.142 connect error: "operation canceled"
+[2024-12-09 20:46:50.893]  config   "C:\Users\jonas\Downloads\crypto_bg_miner\config.json" was changed, reloading configuration
+ * POOL #1      pool.xmrfast.com:9000 coin Monero
+[2024-12-09 20:46:50.900]  net      pool.xmrfast.com:9000 76.76.21.142 connect error: "operation canceled"
+[2024-12-09 20:47:11.457]  net      pool.xmrfast.com:9000 76.76.21.142 connect error: "operation canceled"
+ * ABOUT        XMRig/6.22.2 MSVC/2019 (built for Windows x86-64, 64 bit)
+ * LIBS         libuv/1.49.2 OpenSSL/3.0.15 hwloc/2.11.2
+ * HUGE PAGES   permission granted
+ * 1GB PAGES    unavailable
+ * CPU          12th Gen Intel(R) Core(TM) i5-1235U (1) 64-bit AES VM
+                L2:6.5 MB L3:12.0 MB 10C/12T NUMA:1
+ * MEMORY       11.2/15.7 GB (71%)
+                Bottom - Slot 1 (left): 8 GB DDR4 @ 3200 MHz 4ATF1G64HZ-3G2F1    
+                Bottom - Slot 2 (right): 8 GB DDR4 @ 3200 MHz 4ATF1G64HZ-3G2F1    
+ * MOTHERBOARD  HP - HP 250 15.6 inch G9 Notebook PC
+ * DONATE       1%
+ * ASSEMBLY     auto:intel
+ * POOL #1      pool.xmrfast.com:9000 coin Monero
+ * COMMANDS     'h' hashrate, 'p' pause, 'r' resume, 's' results, 'c' connection
+ * OPENCL       disabled
+ * CUDA         disabled
+[2024-12-09 20:49:54.441]  net      pool.xmrfast.com:9000 76.76.21.22 connect error: "operation canceled"
+ * ABOUT        XMRig/6.22.2 MSVC/2019 (built for Windows x86-64, 64 bit)
+ * LIBS         libuv/1.49.2 OpenSSL/3.0.15 hwloc/2.11.2
+ * HUGE PAGES   permission granted
+ * 1GB PAGES    unavailable
+ * CPU          12th Gen Intel(R) Core(TM) i5-1235U (1) 64-bit AES VM
+                L2:6.5 MB L3:12.0 MB 10C/12T NUMA:1
+ * MEMORY       11.2/15.7 GB (71%)
+                Bottom - Slot 1 (left): 8 GB DDR4 @ 3200 MHz 4ATF1G64HZ-3G2F1    
+                Bottom - Slot 2 (right): 8 GB DDR4 @ 3200 MHz 4ATF1G64HZ-3G2F1    
+ * MOTHERBOARD  HP - HP 250 15.6 inch G9 Notebook PC
+ * DONATE       1%
+ * ASSEMBLY     auto:intel
+ * POOL #1      pool.xmrfast.com coin Monero
+ * COMMANDS     'h' hashrate, 'p' pause, 'r' resume, 's' results, 'c' connection
+ * OPENCL       disabled
+ * CUDA         disabled
+[2024-12-09 20:50:32.452]  net      pool.xmrfast.com 76.76.21.142 connect error: "operation canceled"
